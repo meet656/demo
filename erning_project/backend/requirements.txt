@@ -1,0 +1,16 @@
+# ==========================================
+# Local Service Finder - Python Dependencies
+# ==========================================
+# Install with:  pip install -r requirements.txt
+
+Flask==3.1.3
+flask-cors==6.0.2
+bcrypt==4.1.2
+PyJWT==2.8.0
+
+# --- Included with Python (no install needed) ---
+# sqlite3     → Database (built-in)
+# hashlib     → Password hashing (built-in)
+# secrets     → Token generation (built-in)
+# os          → File/path operations (built-in)
+# functools   → Decorators (built-in)
